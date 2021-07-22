@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-
-using AMO = Microsoft.AnalysisServices;
 using Microsoft.AnalysisServices.Tabular;
 
 namespace ProgrammingDatasets.Models {

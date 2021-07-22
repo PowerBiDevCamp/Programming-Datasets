@@ -17,7 +17,8 @@ namespace ProgrammingDatasets {
       DatabaseServer = "devcamp.database.windows.net", 
       DatabaseName = "ContosoSales", 
       DatabaseUserName = "CptStudent", 
-      DatabaseUserPassword = "pass@word1" };
+      DatabaseUserPassword = "pass@word1" 
+    };
 
     public static PowerBiTenant AcmeCorp = new PowerBiTenant { 
       Name = "Acme Corp", 
